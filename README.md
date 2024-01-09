@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me : send mail to xgame1123@naver.com
-- MY profile page https://qudgus3822.github.io/nextjs-blog/
+- MY profile page https://qudgus3822.github.io/
 
 <!---
 qudgus3822/qudgus3822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
